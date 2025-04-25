@@ -26,12 +26,6 @@ SɅLUTɅTIONS_
 
 <br>
 
-### ⇴ connect with me
-
-<p align="center">
-<a href="https://github.com/ABuljko" target="_blank"><img src="https://img.shields.io/badge/GitHub-1B1B1D?style=for-the-badge&logo=github&logoColor=D4C7CA" alt="GitHub" /></a>
-</p>
-
 </div>
 
 <br>
@@ -82,11 +76,6 @@ SɅLUTɅTIONS_
 </p>
 
 <br>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ABuljko&background=1B1B1D80&border=4D2ED033&ring=947CDB&fire=4D2ED0&currStreakLabel=4D2ED0&sideLabels=4D2ED0&currStreakNum=4D2ED0&sideNums=4D2ED0&dates=947CDB&hide_border=false&border_radius=15" alt="GitHub Streak" />
-</p>
-
 
 </div>
 
