@@ -1,7 +1,7 @@
 <!-- centered welcome header -->
 <div align="center">
 
-# 𝚂𝙰𝙻𝚄𝚃𝙰𝚃𝙸𝙾𝙽𝚂_
+# 𝙶𝚁𝙴𝙴𝚃𝙸𝙽𝙶𝚂_
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&lines=Learning+Backend+in+Public;1.+Software+Development;2.+Automation+%26+Scripting;3.+Python+%7C+JS+%7C+TS)](https://git.io/typing-svg)
 
