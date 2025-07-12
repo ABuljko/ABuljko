@@ -23,7 +23,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,js,html,css,python,flutter" alt="Programming Languages" />
+<img src="https://skillicons.dev/icons?i=cpp,js,html,css,python" alt="Programming Languages" />
 
 </div>
 
