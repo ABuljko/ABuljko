@@ -1,50 +1,36 @@
-<!-- centered welcome header -->
 <div align="center">
 
-# 𝙶𝚁𝙴𝙴𝚃𝙸𝙽𝙶𝚂_
+# abuljko 🐍
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&lines=Learning+Backend+in+Public;1.+Software+Development;2.+Automation+%26+Scripting;3.+Python+%7C+JS+%7C+TS)](https://git.io/typing-svg)
-
-</div>
-
-## ✦ tech i’m exploring
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,ts,js" alt="Languages I'm exploring" />
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abuljko/abuljko/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abuljko/abuljko/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/abuljko/abuljko/output/github-snake.svg" />
+</picture>
 
 ---
 
-## ✦ favorite tools
+## Stack
 
-### 🖥️ languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,js,html,css,python" alt="Programming Languages" />
-
-</div>
-
-### 🛠️ software & tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,ubuntu,git,gitlab" alt="Dev Tools" />
-
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## ✦ github stats
+## Stats
 
-<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abuljko&theme=github_dark" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abuljko&theme=github_dark" />
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ABuljko&show_icons=true&title_color=6C63FF&icon_color=6C63FF&bg_color=00000000&border_color=6C63FF33&text_color=A29BFE&hide_border=false&border_radius=15" alt="GitHub Stats" height="180"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABuljko&layout=compact&hide=Jupyter%20Notebook&bg_color=00000000&border_color=6C63FF33&title_color=6C63FF&text_color=A29BFE&hide_border=false&border_radius=15" alt="Top Languages" height="180"/>
-</p>
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abuljko&theme=github_dark" />
 
 </div>
